@@ -1,6 +1,7 @@
  MEET-STACK — Full-Stack Video Conferencing App
 
 MEET-STACK is a modern, full-stack video conferencing application inspired by platforms like Zoom. It is built using the latest web technologies to deliver real-time video calls, secure authentication, and a clean, responsive user experience. The project focuses on scalability, performance, and production-ready architecture.
+Project status: Actively developed 🚀
 
  Project Overview
 
